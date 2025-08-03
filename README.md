@@ -11,6 +11,31 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/to/develop-packages).
 -->
 
+# 🧰 flutter_tool_kit
+
+A personal toolkit of reusable Flutter components, routes, commands, and utilities for rapid app development.
+
+---
+
+## ✨ Features
+
+- 📦 Reusable widgets (`AppButton`, `AppTextFormField`, etc.)
+- 🧭 Routing with `AppRouter` and named `Routes`
+- 🧠 Dependency injection with `getIt`
+- 🛠 Useful validators and utilities
+- 🧪 Example project included
+
+---
+
+## 📦 Installation
+
+```yaml
+dependencies:
+  flutter_tool_kit:
+    git:
+      url: https://github.com/your-username/flutter_tool_kit.git
+```
+
 TODO: Put a short description of the package here that helps potential users
 know whether this package might be useful for them.
 
