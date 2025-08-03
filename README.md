@@ -33,7 +33,7 @@ A personal toolkit of reusable Flutter components, routes, commands, and utiliti
 dependencies:
   flutter_tool_kit:
     git:
-      url: https://github.com/your-username/flutter_tool_kit.git
+      url: https://github.com/m9stafa05/flutter_tool_kit.git
 ```
 
 TODO: Put a short description of the package here that helps potential users
